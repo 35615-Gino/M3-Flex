@@ -1,0 +1,9 @@
+A strongly typed programming language is one in which each type of data, 
+such as integers, characters, 
+hexadecimals and packed decimals, 
+is predefined as part of the programming language, 
+and all constants or variables defined for a given program must be described with one of the data types.
+
+
+voorbeelden:
+c#, Java
