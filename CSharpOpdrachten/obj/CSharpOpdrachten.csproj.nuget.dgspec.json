@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ginos\\OneDrive\\Documenten\\CSharpOpdrachten\\CSharpOpdrachten.csproj": {}
+    "C:\\Users\\ginos\\OneDrive\\Documenten\\M3-Flex\\CSharpOpdrachten\\CSharpOpdrachten.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ginos\\OneDrive\\Documenten\\CSharpOpdrachten\\CSharpOpdrachten.csproj": {
+    "C:\\Users\\ginos\\OneDrive\\Documenten\\M3-Flex\\CSharpOpdrachten\\CSharpOpdrachten.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ginos\\OneDrive\\Documenten\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
+        "projectUniqueName": "C:\\Users\\ginos\\OneDrive\\Documenten\\M3-Flex\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
         "projectName": "CSharpOpdrachten",
-        "projectPath": "C:\\Users\\ginos\\OneDrive\\Documenten\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
+        "projectPath": "C:\\Users\\ginos\\OneDrive\\Documenten\\M3-Flex\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
         "packagesPath": "C:\\Users\\ginos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ginos\\OneDrive\\Documenten\\CSharpOpdrachten\\obj\\",
+        "outputPath": "C:\\Users\\ginos\\OneDrive\\Documenten\\M3-Flex\\CSharpOpdrachten\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
