@@ -1,0 +1,6 @@
+classes
+floats
+ints
+booleans
+strings
+array
