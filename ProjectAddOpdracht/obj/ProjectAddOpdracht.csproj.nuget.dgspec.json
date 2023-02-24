@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ginos\\OneDrive\\Documenten\\ProjectAddOpdracht\\ProjectAddOpdracht.csproj": {}
+    "C:\\Users\\ginos\\OneDrive\\Documenten\\M3-Flex\\ProjectAddOpdracht\\ProjectAddOpdracht.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ginos\\OneDrive\\Documenten\\ProjectAddOpdracht\\ProjectAddOpdracht.csproj": {
+    "C:\\Users\\ginos\\OneDrive\\Documenten\\M3-Flex\\ProjectAddOpdracht\\ProjectAddOpdracht.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ginos\\OneDrive\\Documenten\\ProjectAddOpdracht\\ProjectAddOpdracht.csproj",
+        "projectUniqueName": "C:\\Users\\ginos\\OneDrive\\Documenten\\M3-Flex\\ProjectAddOpdracht\\ProjectAddOpdracht.csproj",
         "projectName": "ProjectAddOpdracht",
-        "projectPath": "C:\\Users\\ginos\\OneDrive\\Documenten\\ProjectAddOpdracht\\ProjectAddOpdracht.csproj",
+        "projectPath": "C:\\Users\\ginos\\OneDrive\\Documenten\\M3-Flex\\ProjectAddOpdracht\\ProjectAddOpdracht.csproj",
         "packagesPath": "C:\\Users\\ginos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ginos\\OneDrive\\Documenten\\ProjectAddOpdracht\\obj\\",
+        "outputPath": "C:\\Users\\ginos\\OneDrive\\Documenten\\M3-Flex\\ProjectAddOpdracht\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
