@@ -9,7 +9,7 @@ namespace ClassOpdracht5
             //even voor nu hier de room 'maken'
 
             //10 bij 10
-            int size = 1;
+            int size = 10;
             tiles = new Tile[size][];
             for (int i = 0; i < size; i++)
             {
